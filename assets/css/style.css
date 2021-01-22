@@ -245,6 +245,7 @@ html, body {
     font-weight: 700;
     margin: 0 0 15px;
     text-transform: uppercase;
+    color: red;
 }
 
 .job-title {
@@ -270,11 +271,14 @@ html, body {
    padding-top: 120px;
 }
 
-.site-section h2,
+.site-section h2{
+    color: red;
+}
 .site-section h3 {
     font-size: 36px;
     margin: 0;
     text-transform: uppercase;
+    color: red;
 }
 
 .img-lines {
